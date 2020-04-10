@@ -1,5 +1,5 @@
-variable "AWS_ACCESS_KEY" {default = "AKIA3ILMKNKHHLAGVMVG"}
-variable "AWS_SECRET_KEY" {default = "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"}
+variable "AWS_ACCESS_KEY" {default = "AKIA3ILMKNKHL4R2ESNQ"}
+variable "AWS_SECRET_KEY" {default = "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"}
 variable "AWS_REGION" {
   default = "ap-south-1"
 }
